@@ -33,3 +33,8 @@ Displays:
 - Average CAGR: 16.7%
 - Average Sharpe Ratio: 0.65
 - 11 Recommended Funds
+  
+## Live Demo
+
+Streamlit App:
+https://your-streamlit-url.streamlit.app
