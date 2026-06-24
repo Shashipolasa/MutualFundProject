@@ -1,31 +1,35 @@
 # Mutual Fund Analytics Dashboard
 
 ## Project Overview
-A complete Mutual Fund Analytics project built using Python, Pandas, SQLite, and Streamlit.
+A complete Mutual Fund Analytics project built using Python, Pandas, SQLite and Streamlit.
 
 ## Features
-- Data Cleaning & ETL
+- Data Ingestion
+- Data Cleaning
 - Exploratory Data Analysis
 - CAGR Calculation
 - Sharpe Ratio Analysis
-- Risk Analysis using Value at Risk (VaR)
-- Mutual Fund Recommendation Engine
+- Value at Risk (VaR)
+- Fund Recommendation Engine
 - Interactive Streamlit Dashboard
 
-## Technologies
+## Technologies Used
 - Python
 - Pandas
 - NumPy
-- Matplotlib
+- SQLite
 - Plotly
 - Streamlit
-- SQLite
 
-## Dashboard Metrics
-- Fund Performance
+## Dashboard
+Displays:
 - Risk vs Return Analysis
 - Top CAGR Funds
 - Recommended Funds
+- KPI Metrics
 
-## Author
-Shashi Kumar
+## Results
+- 40 Funds Analysed
+- Average CAGR: 16.7%
+- Average Sharpe Ratio: 0.65
+- 11 Recommended Funds
