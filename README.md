@@ -37,4 +37,4 @@ Displays:
 ## Live Demo
 
 Streamlit App:
-https://your-streamlit-url.streamlit.app
+https://mutualfundproject-eenuwbzehs2cc6zsnytof2.streamlit.app
